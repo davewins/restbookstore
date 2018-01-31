@@ -10,13 +10,6 @@
   </parent>
   <artifactId>tibco.bwce.sample.binding.rest.BookStore</artifactId>
   <packaging>bwmodule</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>com.tibco.plugins</groupId>
-      <artifactId>com.tibco.bw.palette.shared</artifactId>
-      <version>6.1.100</version>
-    </dependency>
-  </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
